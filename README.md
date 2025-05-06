@@ -51,8 +51,8 @@ ScreenshotByKoss — це простий та зручний застосуно�
 
 ## 📬 Зв’язок
 
-**Автор:** Denys Koss  
-**Email:** [твоє-мейл-або-залиши-порожнє]  
+**Автор:** ODS Koss  
+**Email:** i.ds.orlik@gmail.com  
 **GitHub:** [https://github.com/yourname](https://github.com/yourname)
 
 ---
