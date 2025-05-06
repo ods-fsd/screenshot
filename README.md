@@ -53,7 +53,7 @@ ScreenshotByKoss — це простий та зручний застосуно�
 
 **Автор:** ODS Koss  
 **Email:** i.ds.orlik@gmail.com  
-**GitHub:** [https://github.com/yourname](https://github.com/yourname)
+**GitHub:** [https://github.com/ods-fsd](https://github.com/ods-fsd)
 
 ---
 
